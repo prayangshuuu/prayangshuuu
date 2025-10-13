@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hey, I’m Prayangshu</h1>
 
-<h3 align="center">🚀 Entrepreneur | Full Stack Developer | Problem Solver | Builder</h3>
+<h3> 🚀 Entrepreneur | Full Stack Developer | Problem Solver | Builder</h3>
 
-<p align="center">
+<p>
   <i>I build digital products that actually make sense — fast, scalable, and built with purpose.</i>
 </p>
 

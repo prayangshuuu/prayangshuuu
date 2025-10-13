@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I’m Prayangshu</h1>
+<h1>👋 Hey, I’m Prayangshu</h1>
 
 <h3> 🚀 Entrepreneur | Full Stack Developer | Problem Solver | Builder</h3>
 

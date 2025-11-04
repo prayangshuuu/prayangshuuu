@@ -1,7 +1,4 @@
-<h1>👋 Yo, I’m Prayangshu
-
-
-👋 Yo, I’m Prayangshu
+<h1>👋 Yo, I’m Prayangshu </h1>
 
 I build things that may or may not matter, and sometimes make music that makes people feel something… usually sad. I used to be a happy kid. Now I make sad songs and call it art. Don’t ask why, I still haven’t figured that out.
 

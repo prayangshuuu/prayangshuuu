@@ -1,20 +1,13 @@
-<h1>👋 Hey, I’m Prayangshu</h1>
+<h1>👋 Yo, I’m Prayangshu
 
-<h3> 🚀 Entrepreneur | Full Stack Developer | Problem Solver | Builder</h3>
 
-<p>
-  <i>I build digital products that actually make sense — fast, scalable, and built with purpose.</i>
-</p>
+👋 Yo, I’m Prayangshu
 
----
+I build things that may or may not matter, and sometimes make music that makes people feel something… usually sad. I used to be a happy kid. Now I make sad songs and call it art. Don’t ask why, I still haven’t figured that out.
 
-## 💡 About Me
+I design systems. I write code. But most nights, I just stare at the ceiling, planning the next big thing I’ll probably never finish.
 
-Hey! I’m **Prayangshu**, a developer & founder who loves bringing ideas to life through **clean code and creative logic**.  
-I work across the full stack from backend logic to frontend polish and I’m all about building tools, systems, and brands that *just work*.
-
-Currently exploring **AI automation**, **product scaling**, and **startup ecosystems**.  
-Always open for collaborations, projects, or just a good tech chat!
+These days, I’m experimenting with AI/ML, full-stack web dev, branding, music and entrepreneurship basically trying to turn my insomnia into innovation... or working 14 hours a day just to avoid a 9 to 5.
 
 ---
 

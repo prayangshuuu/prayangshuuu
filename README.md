@@ -61,7 +61,6 @@ These days, I’m experimenting with AI/ML, full-stack web dev, branding, music 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=prayangshuuu&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=prayangshuuu&theme=tokyonight&hide_border=true" />
 
 <p align="center">

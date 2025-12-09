@@ -61,9 +61,6 @@ These days, I’m experimenting with AI/ML, full-stack web dev, branding, music 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=prayangshuuu&theme=tokyonight&hide_border=true" />
-
-<p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=prayangshuuu&radius=16&theme=github-compact&area=true&order=5&custom_title=Last%20Month%20Contributions&hide_border=true"
     alt="Last Month Contributions"
